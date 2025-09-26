@@ -1,7 +1,5 @@
 # Beyin Tümör MRI Modeli
 
-Bu repo, Global AI Hub bootcampi için geliştirilen bir beyin tümörü sınıflandırma projesidir. Proje, Kaggle üzerindeki [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) veri setini kullanarak beyin MR görüntülerini sınıflandırmak için bir Evrişimli Sinir Ağı (CNN) modeli oluşturmayı amaçlamaktadır. Bu README, projenin genel yapısını, kullanılan algoritmaları, elde edilen metrikleri ve gelecekteki geliştirme planlarını özetlemektedir.
-
 ## Giriş
 
 Bu proje, beyin tümörü MR görüntülerini dört sınıfa ayırmak için derin öğrenme tabanlı bir yaklaşım kullanır: **glioma**, **meningioma**, **no tumor**, ve **pituitary**. Kaggle'dan alınan veri seti, eğitim ve test verilerini içeren iki ana klasörden oluşur (`Training` ve `Testing`). Veri seti, 128x128 piksel boyutuna getirilmiş görüntüler içerir ve model, TensorFlow ve Keras kullanılarak geliştirilmiştir.
