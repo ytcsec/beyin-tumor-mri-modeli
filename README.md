@@ -54,5 +54,5 @@ Gelecekte, bu projeyi tıbbi görüntüleme alanında daha geniş bir veri setiy
 
 ## Linkler
 
-- [Kaggle Notebook:](https://www.kaggle.com/code/your-username/brain-tumor-mri-classification)
-- [Kaggle Dataset:](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+- [Kaggle Notebook](https://www.kaggle.com/code/your-username/brain-tumor-mri-classification)
+- [Kaggle Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
